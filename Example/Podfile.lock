@@ -1,0 +1,16 @@
+PODS:
+  - weaving_test_coco (0.1.0)
+
+DEPENDENCIES:
+  - weaving_test_coco (from `../`)
+
+EXTERNAL SOURCES:
+  weaving_test_coco:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  weaving_test_coco: c6a3637ed23c508c4eabc8503b4d77fc265a7519
+
+PODFILE CHECKSUM: 6d615b5e1ca6575d1763764026ddb98c2a076bf7
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,6 @@
+framework module weaving_test_coco {
+  umbrella header "weaving_test_coco-umbrella.h"
+
+  export *
+  module * { export * }
+}
