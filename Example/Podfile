@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'weaving_test_coco_Example' do
+  pod 'weaving_test_coco', :path => '../'
+
+  target 'weaving_test_coco_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
